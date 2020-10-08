@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { makeStyles, withStyles } from "@material-ui/core/styles";
 import { TextField, Button, Card, Input, Divider } from "@material-ui/core";
-import firebase from "./firebase";
 
 import { Link } from "react-router-dom";
 
