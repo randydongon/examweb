@@ -1,0 +1,15 @@
+svg {
+  fill: white !important;
+  width: 2rem;
+  height: 2rem;
+}
+.messenger_svg {
+  fill: white;
+  width: 2rem;
+  height: 2rem;
+}
+.messenger__btn svg {
+  fill: white;
+  width: 2rem;
+  height: 2rem;
+}
